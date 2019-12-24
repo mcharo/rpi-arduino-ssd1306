@@ -5,7 +5,7 @@
 ## Parts
 
 - Arduino Uno R3
-- Raspberry Pi 4 4GB
+- 4 x Raspberry Pi 4 4GB
 - UCTRONICS SSD1306 128x64 OLED Display
 
 ## Raspberry Pi Software Requirements
