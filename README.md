@@ -1,4 +1,6 @@
-# Raspberry Pi Temperature Monitor
+# Raspberry Pi Cluster Temperature Monitor
+
+![SSD1306 screen displaying Raspberry Pi temperatures](/rpi-arduino-ssd1306.jpg?raw=true)
 
 ## Parts
 
