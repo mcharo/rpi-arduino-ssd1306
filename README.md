@@ -72,7 +72,11 @@
 - Adafruit GFX library was installed using the Arduino IDE library manager: `Tools > Manage Libraries`
 - ArducamSSD1306 library was downloaded from https://github.com/supprot/ArducamSSD1306, zipped up and imported as a ZIP library using the Arduino IDE
 
-### fontconvert compilation
+### `fontconvert` Compilation on macOS
 
 1. Modified Makefile to include additional library folders containing freetype headers
 2. Modified Makefile to replace `-lfreetype` with full path to the `libfreetype.dylib` file
+
+#### `fontconvert` Alternative Web Version
+
+http://oleddisplay.squix.ch/#/home
